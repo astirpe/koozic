@@ -1,0 +1,6 @@
+Playlists
+=========
+
+.. caca
+
+toto

@@ -1,0 +1,6 @@
+Settings
+========
+
+.. caca
+
+toto
