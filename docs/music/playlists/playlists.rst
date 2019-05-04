@@ -4,7 +4,7 @@ Playlists
 =========
 
 KooZic has extended playlist creation capabilities. It is possible to create playlist manually by
-adding tracks, albums or artists, but dynamic playlist are also available.
+adding tracks, albums or artists, but dynamic playlists are also available.
 
 
 Views

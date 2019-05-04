@@ -37,3 +37,6 @@ This page describes the basic actions that can be found in the Music interface.
    Run
       Start the conversion process. More precisely, flag the converter to be ready for conversion.
       The conversion automatically starts in the background within 2 minutes.
+
+   Update Events
+      Retrieve all the events of the artists thanks to BandsInTown.

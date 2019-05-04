@@ -1,3 +1,5 @@
+.. _browse:
+
 Browse Files
 ============
 
