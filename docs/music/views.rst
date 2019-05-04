@@ -41,3 +41,8 @@ view switcher.
       Similar to the graph view, but displayed in an interactive table.
 
       .. image:: /images/view_pivot.png
+
+   Calendar
+      Used to display the upcoming events.
+
+      .. image:: /images/view_calendar.png

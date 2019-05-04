@@ -9,6 +9,9 @@ This page describes the basic actions that can be found in the Music interface.
       Add at the end of the :ref:`current_playlist` and start playing the first track. Hidden if
       already in the playlist.
 
+   Add Recursively To Current Playlist
+      Add all tracks found recursively in the folder to the :ref:`current_playlist`.
+
    Add To Current Playlist
       Add at the end of the :ref:`current_playlist`. Hidden if already in the playlist.
 
@@ -24,8 +27,8 @@ This page describes the basic actions that can be found in the Music interface.
       downloading.
 
    Play
-      Play the track right away without adding it in the current playlist. This is useful to quickly
-      listen to a track without messing with the playlist.
+      Play the track right away without adding it in the :ref:`current_playlist`. This is useful to
+      quickly listen to a track without messing with the playlist.
 
    Purge
       Remove all lines from the playlist.

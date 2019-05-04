@@ -58,3 +58,9 @@ If things are still unclear, feel free to browse the documentation!
    music/configuration/index
    music/views
    music/actions
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Global Configuration
+
+   global/user_preferences
