@@ -6,7 +6,7 @@ Current Playlist
 Views
 -----
 
-A :term:`Tree` and a :term:`Search` views.
+A :term:`Tree` and a :term:`Search` view.
 
 Two specific colors are used:
 

@@ -12,9 +12,20 @@ This page describes the basic actions that can be found in the Music interface.
       Add at the end of the :ref:`current_playlist` and start playing the first track. Hidden if
       already in the playlist.
 
+   Create Link
+      Generate a :ref:`download_links` which allows an external person to download the content of
+      the object (track, album, playlist...).
+
+   Download
+      Builds a zip file with the content of the object (track, album, artist, playlist) and starts
+      downloading.
+
    Play
       Play the track right away without adding it in the current playlist. This is useful to quickly
       listen to a track without messing with the playlist.
+
+   Purge
+      Remove all lines from the playlist.
 
    Reorder
       When the handle is displayed at the left of a list, it means that the elements can be

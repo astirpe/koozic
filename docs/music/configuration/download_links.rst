@@ -1,3 +1,5 @@
+.. _download_links:
+
 Download Links
 ==============
 
