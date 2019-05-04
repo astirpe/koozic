@@ -3,7 +3,7 @@
 Events
 ======
 
-The events of the followed artists are aggregated in this menu. The definition of the current
+The events of the followed :ref:`artists` are aggregated in this menu. The definition of the current
 location and the maximum distance for events is set in the :ref:`user_preferences`. This is very
 useful to avoid noise in the list of events.
 
