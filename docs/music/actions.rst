@@ -5,12 +5,15 @@ This page describes the basic actions that can be found in the Music interface.
 
 .. glossary::
 
-   Add To Current Playlist
-      Add at the end of the :ref:`current_playlist`. Hidden if already in the playlist.
-
    Add And Play
       Add at the end of the :ref:`current_playlist` and start playing the first track. Hidden if
       already in the playlist.
+
+   Add To Current Playlist
+      Add at the end of the :ref:`current_playlist`. Hidden if already in the playlist.
+
+   Add To Playlist
+      Add tracks at the end of the playlist being edited.
 
    Create Link
       Generate a :ref:`download_links` which allows an external person to download the content of
