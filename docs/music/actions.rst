@@ -33,3 +33,7 @@ This page describes the basic actions that can be found in the Music interface.
    Reorder
       When the handle is displayed at the left of a list, it means that the elements can be
       manually reordered.
+
+   Run
+      Start the conversion process. More precisely, flag the converter to be ready for conversion.
+      The conversion automatically starts in the background within 2 minutes.
