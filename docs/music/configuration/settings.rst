@@ -40,10 +40,10 @@ A handful of settings are provided regarding folder sharing and performances.
 
       *Default: Kanban, with thumbnails*
 
-   LastFM and Events Info
-      If the LastFM and events information has not been fetched yet or outdated (112 days for
-      LastFM, 14 days for events) it is automatically fetched. When deactivated, the user must
-      update the information manually. It can be done 'Update LastFM Info' and 'Update Events Info'
-      in the 'Action' menu.
+   Artists and Events Info
+      If the artists and events information has not been fetched yet or outdated (112 days for
+      LastFM, 182 days for Spotify and 14 days for events) it is automatically fetched. When
+      deactivated, the user must update the information manually. It can be done 'Update Artist
+      Info' and 'Update Events Info' in the 'Action' menu.
 
       *Default: Fetched automatically*

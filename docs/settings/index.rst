@@ -3,6 +3,11 @@
 General Settings
 ================
 
+.. _debug_mode:
+
+Debug mode
+----------
+
 TODO
 
 .. toctree::
