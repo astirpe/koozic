@@ -25,7 +25,6 @@ Actions
 Fields
 ------
 
-
 .. glossary::
 
    Folder Path

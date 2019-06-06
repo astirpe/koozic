@@ -61,6 +61,9 @@ If things are still unclear, feel free to browse the documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: General Settings
+   :caption: Global Configuration
 
-   settings/index
+   settings/user_preferences
+   settings/users
+   settings/debug
+   settings/crons
