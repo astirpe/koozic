@@ -47,3 +47,13 @@ A handful of settings are provided regarding folder sharing and performances.
       Info' and 'Update Events Info' in the 'Action' menu.
 
       *Default: Fetched automatically*
+
+   Subsonic API Format
+      A regular Subsonic server converts the tracks to the MP3 format only. However, most modern
+      mobile applications can handle other formats such as Ogg or Opus. The setting gives the
+      possibility to choose the format used when connecting through the Subsonic API.
+
+      Note that it is strongly recommended to keep the default value. Changing it might lead to
+      unexpected behaviors of your mobile application.
+
+      *Default: mp3*

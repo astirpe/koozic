@@ -13,9 +13,9 @@ quality over size ratio.
 However, it is possible to select another transcoder with the top priority, e.g. MP3. In this case,
 MP3 will be preferred by the browser.
 
-There is an exception: when accessing KooZic through a
-`mobile application <https://koozic.net/download/>`_  using the Subsonic API, MP3 is the only format
-available. This is for compatibility reasons since most apps expect MP3-only.
+When accessing KooZic through a `mobile application <https://koozic.net/download/>`_  using the
+Subsonic API, the default format is MP3. This can be changed in the settings (see
+:term:`Subsonic API Format`).
 
 
 Views
